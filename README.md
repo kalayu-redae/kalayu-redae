@@ -84,9 +84,9 @@ AWS, Google Cloud, Docker, Git
 ---
 ## 🌐 Connect With Me
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/kalayuredae  
-- 📧 Email: kalayuredae2@gmail.com  
-- 👍 Facebook: https://www.facebook.com/kalayu.redae2
+- 🔗 LinkedIn: https://www.linkedin.com/in/kalayu-redaee
+- 📧 Email: kalayuredaee@gmail.com  
+- 👍 Facebook: https://www.facebook.com/kalayu.redaee
 - 💬 WhatsApp: https://w.me/+251943662611  
 - ✈️ Telegram: https://t.me/+251943662611  
 
